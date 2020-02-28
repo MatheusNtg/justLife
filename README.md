@@ -2,9 +2,9 @@
 
 justLife is a game of life written in lua
 
-## Instalation:
+## Installation:
 
-This game require the instalation of love2d in order to work
+This game requires love2d framework in order to work
 
 1. Download this repo
 2. Extract in some folder
