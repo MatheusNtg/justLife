@@ -1,6 +1,6 @@
 # justLife
 
-justLife is a game of life written in lua
+justLife is a Conway's game of life written in lua
 
 ## Installation:
 
