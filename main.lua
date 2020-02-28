@@ -1,6 +1,3 @@
--- Fazer janela (feito)
--- Desenhar os quadrados (células)
-
 MORTO = false
 VIVO  = true
 
