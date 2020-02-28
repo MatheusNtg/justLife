@@ -13,5 +13,5 @@ This game requires love2d framework in order to work
 ## How to play:
 
 * Use the left mouse button to create some cells
-* Right click in a live cell to kill it
+* Right click on a living cell to kill it
 * Press any button of your keyboard to create and show the next generation
