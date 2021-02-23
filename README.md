@@ -4,7 +4,7 @@ justLife is a Conway's game of life written in lua
 
 ## Installation:
 
-This game requires love2d framework in order to work
+This game requires [love2d](https://love2d.org/) framework in order to work
 
 1. Download this repo
 2. Extract in some folder
